@@ -1,2 +1,2 @@
 # didactic-adventure
-Just random stuff
+Just random stuff.
