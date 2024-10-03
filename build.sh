@@ -1,6 +1,6 @@
 ###   Ryujinx - Nintendo Switch Emulator - Building Script
 
-# Project - https://git.frfrnocap.men/ryujinx-archive
+# Project - https://github.com/ryujinx-mirror/ryujinx
 
 
 # Makedepends for Archlinux (other distros may vary):  'desktop-file-utils' 'dotnet-sdk-bin' 'jq'
